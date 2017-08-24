@@ -1,2 +1,2 @@
-# minigl
-mini webgl
+# wgld.org lessons
+https://wgld.org/d/webgl/
